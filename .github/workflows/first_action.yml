@@ -8,4 +8,9 @@ jobs:
         run: echo "Hello Dude"
       - name: Print msg2
         run: echo "Good Bye dude"
+      - name: Print msg2
+        run: |
+            echo "Many Echos"
+            echo "More echos"
+            echo "Keep echoing"
         
